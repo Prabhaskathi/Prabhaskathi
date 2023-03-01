@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - connect with me 
 - https://twitter.com/kathi_prabhas
+- prabhaskathi2003@gmail.com
 
 <!---
 Prabhaskathi/Prabhaskathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
