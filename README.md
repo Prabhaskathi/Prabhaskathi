@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm KATHI PRABHAS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **COURSES**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/d/1HLL1wUL753XxRhInEI15Zn7sAfC2d8Ti/p/1VncbiWxhd8fKhm1mDuA33xnAbP_poSoK/edit?pli=1](https://sites.google.com/d/1HLL1wUL753XxRhInEI15Zn7sAfC2d8Ti/p/1VncbiWxhd8fKhm1mDuA33xnAbP_poSoK/edit?pli=1)
 
 - 📫 How to reach me **prabhaskathi2003@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
